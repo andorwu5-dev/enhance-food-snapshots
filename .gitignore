@@ -1,0 +1,20 @@
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+
+# Private test inputs and generated artifacts
+outputs/
+output/
+test-assets/
+examples/private/
+tmp/
+dist/
+*.zip
+*.tar.gz
+
+# Runtime noise
+__pycache__/
+*.pyc
+
