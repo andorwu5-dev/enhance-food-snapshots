@@ -1,0 +1,4 @@
+interface:
+  display_name: "随手拍美食优化"
+  short_description: "手残党也能把随手拍，变成可以直接分享的美食照片"
+  default_prompt: "使用 $enhance-food-photos 优化我随手拍的美食照片；先识别真实用餐语境，再返回两张可以直接分享的不同方案。"
